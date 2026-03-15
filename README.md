@@ -1,33 +1,16 @@
-# Personal Portfolio Website 🚀
+# My Portfolio Wesbite - Overview 🚀
 
-Welcome to my personal portfolio website repository.  
-This project showcases my **skills, projects, and development journey** as a developer.
+This repository contains the open source version of my porfolio website.
+Do check it out!
 
+## Instructions 🛠️
 
-## 📌 About the Project
+I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
 
-This portfolio website was built to present my work, technical skills, and projects in a structured way. It serves as a central place where recruiters, collaborators, and developers can learn more about me and my work.
+**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-The website highlights my learning journey in **software development, problem solving, and modern web technologies.**
+![Portfolio-Preview](public/images/preview.png)
 
----
+## License
 
-## ✨ Features
-
-- 🧑‍💻 Personal introduction section  
-- 📂 Projects showcase  
-- 🛠 Skills and technologies section  
-- 📞 Contact information  
-- 📱 Responsive design  
-
----
-
-## 🛠 Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript  
-- (Add any frameworks you used like React / Next.js / Tailwind etc.)
-
----
-
+This project is open source and available under the [MIT License](LICENSE).
